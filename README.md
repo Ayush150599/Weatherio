@@ -50,11 +50,8 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@Ayush150599]([https://www.github.com/Ayush150599])
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Support
 
